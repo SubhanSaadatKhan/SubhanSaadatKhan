@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-##I'm Subhan 👨
+## I'm Subhan 👨
 
-🔍 I am currently searching for internship and software engineering opportunities all around the world!
-⭐ I’m currently a student from Monash University studying Computer Science specializing in advance computer science, going to graduate soon!
-🌱 I’m currently learning the art of developing good softwares
+- 🔍 I am currently searching for internship and software engineering opportunities all around the world!
+- ⭐ I’m currently a student from Monash University studying Computer Science specializing in advance computer science, going to graduate soon!
+- 🌱 I’m currently learning the art of developing good softwares
  
 
 
