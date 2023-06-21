@@ -4,7 +4,9 @@
 
 - 🔍 I am currently searching for internship and software engineering opportunities all around the world!
 - ⭐ I’m currently a student from Monash University studying Computer Science specializing in advance computer science, going to graduate soon!
-- 🌱 I’m currently learning the art of developing good softwares
+- 🌱 I’m currently learning the art of developing good softwares!
+
+Feel free to reach out to me for exciting collaboration opportunities, internships, or simply to connect and discuss all things software development. Let's build something great together!
  
 
 
