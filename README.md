@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+##I'm Subhan 👨
+
+🔍 I am currently searching for internship and software engineering opportunities all around the world!
+⭐ I’m currently a student from Monash University studying Computer Science specializing in advance computer science, going to graduate soon!
+🌱 I’m currently learning the art of developing good softwares
+ 
+
+
+
 <!--
 **SubhanSaadatKhan/SubhanSaadatKhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
